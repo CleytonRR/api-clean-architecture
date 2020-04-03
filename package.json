@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CleytonRR/api-clean-architecture/issues"
   },
-  "homepage": "https://github.com/CleytonRR/api-clean-architecture#readme"
+  "homepage": "https://github.com/CleytonRR/api-clean-architecture#readme",
+  "devDependencies": {
+    "standard": "^14.3.3"
+  }
 }
