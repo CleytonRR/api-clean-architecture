@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "standard": {
+    "env": ["jest"]
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CleytonRR/api-clean-architecture.git"
