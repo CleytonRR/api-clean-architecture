@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/CleytonRR/api-clean-architecture#readme",
   "devDependencies": {
+    "@shelf/jest-mongodb": "^1.2.2",
     "husky": "^4.2.3",
     "jest": "^25.2.7",
     "lint-staged": "^10.1.1",
