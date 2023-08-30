@@ -39,7 +39,7 @@
     "express": "^4.17.3",
     "fast-glob": "^3.2.4",
     "jsonwebtoken": "^9.0.0",
-    "mongodb": "^3.6.0",
+    "mongodb": "^3.6.10",
     "validator": "^13.7.0"
   }
 }
